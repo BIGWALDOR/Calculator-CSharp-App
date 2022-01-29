@@ -4,5 +4,6 @@ int num1 = int.Parse(Console.ReadLine());
 Console.Write("Enter another number: ");
 int num2 = int.Parse(Console.ReadLine());
 
+Console.WriteLine(num1 + num2);
 
 Console.ReadLine();
