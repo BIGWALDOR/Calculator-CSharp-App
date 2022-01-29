@@ -1,0 +1,15 @@
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/bin/Debug/net6.0/Calculator-CSharp-App
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/bin/Debug/net6.0/Calculator-CSharp-App.deps.json
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/bin/Debug/net6.0/Calculator-CSharp-App.runtimeconfig.json
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/bin/Debug/net6.0/Calculator-CSharp-App.dll
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/bin/Debug/net6.0/ref/Calculator-CSharp-App.dll
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/bin/Debug/net6.0/Calculator-CSharp-App.pdb
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.csproj.AssemblyReference.cache
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.AssemblyInfoInputs.cache
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.AssemblyInfo.cs
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.csproj.CoreCompileInputs.cache
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.dll
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/ref/Calculator-CSharp-App.dll
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.pdb
+/Users/Walid.B13/Desktop/Tutorials/C# Tutorial/Calculator-CSharp-App/obj/Debug/net6.0/Calculator-CSharp-App.genruntimeconfig.cache
